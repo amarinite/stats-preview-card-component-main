@@ -115,3 +115,25 @@ body {
     height: 25rem;
   }
 }
+
+@media (max-width: 500px) {
+  body {
+    padding: 0 3rem;
+  }
+
+  .stats-card-container {
+    margin: 40px auto;
+  }
+
+  .stats-content {
+    margin: 3rem;
+  }
+
+  .main-heading {
+    font-size: 3rem;
+  }
+
+  .description {
+    font-size: 1.4rem;
+  }
+}

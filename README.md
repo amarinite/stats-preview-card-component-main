@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/stats-preview-card-component-with-css-grid-and-flexbox-96Lw9M2Md2)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/stats-preview-card-component-with-css-grid-and-flexbox-96Lw9M2Md2](https://www.frontendmentor.io/solutions/stats-preview-card-component-with-css-grid-and-flexbox-96Lw9M2Md2)
+- Live Site URL: [https://amarinite.github.io/stats-preview-card-component-main/](https://amarinite.github.io/stats-preview-card-component-main/)
 
 ## My process
 
